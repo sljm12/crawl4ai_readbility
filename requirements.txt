@@ -1,0 +1,7 @@
+crawl4ai
+python-dotenv
+sqlmodel
+readability-lxml
+markdownify
+fastapi
+uvicorn[standard]
